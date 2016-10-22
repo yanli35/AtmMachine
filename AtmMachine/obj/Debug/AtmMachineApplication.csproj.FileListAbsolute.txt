@@ -10,3 +10,6 @@ c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\bin\D
 c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\obj\Debug\AtmMachineApplication.csprojResolveAssemblyReference.cache
 c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\obj\Debug\AtmMachine.exe
 c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\obj\Debug\AtmMachine.pdb
+C:\Users\yanli\Documents\GitHub\AtmMachine\AtmMachine\bin\Debug\AtmMachine.exe.config
+C:\Users\yanli\Documents\GitHub\AtmMachine\AtmMachine\obj\Debug\AtmMachine.exe
+C:\Users\yanli\Documents\GitHub\AtmMachine\AtmMachine\obj\Debug\AtmMachine.pdb
