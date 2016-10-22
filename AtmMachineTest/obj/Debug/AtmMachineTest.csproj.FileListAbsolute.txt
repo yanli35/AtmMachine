@@ -1,0 +1,12 @@
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachineTest\bin\Debug\AtmMachineTest.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachineTest\bin\Debug\AtmMachineTest.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachineTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachineTest\obj\Debug\AtmMachineTest.csprojResolveAssemblyReference.cache
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachineTest\obj\Debug\AtmMachineTest.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachineTest\obj\Debug\AtmMachineTest.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachineTest\bin\Debug\Business.Access.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachineTest\bin\Debug\Data.Access.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachineTest\bin\Debug\Data.Repository.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachineTest\bin\Debug\Business.Access.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachineTest\bin\Debug\Data.Access.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachineTest\bin\Debug\Data.Repository.pdb

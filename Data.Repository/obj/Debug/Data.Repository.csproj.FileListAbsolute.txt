@@ -1,0 +1,5 @@
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Data.Repository\bin\Debug\Data.Repository.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Data.Repository\bin\Debug\Data.Repository.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Data.Repository\obj\Debug\Data.Repository.csprojResolveAssemblyReference.cache
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Data.Repository\obj\Debug\Data.Repository.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Data.Repository\obj\Debug\Data.Repository.pdb

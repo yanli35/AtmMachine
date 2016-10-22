@@ -1,0 +1,7 @@
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Business.Access\obj\Debug\Business.Access.csprojResolveAssemblyReference.cache
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Business.Access\bin\Debug\Business.Access.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Business.Access\bin\Debug\Business.Access.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Business.Access\bin\Debug\Data.Repository.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Business.Access\bin\Debug\Data.Repository.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Business.Access\obj\Debug\Business.Access.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Business.Access\obj\Debug\Business.Access.pdb

@@ -1,0 +1,7 @@
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Data.Access\bin\Debug\Data.Access.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Data.Access\bin\Debug\Data.Access.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Data.Access\bin\Debug\Data.Repository.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Data.Access\bin\Debug\Data.Repository.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Data.Access\obj\Debug\Data.Access.csprojResolveAssemblyReference.cache
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Data.Access\obj\Debug\Data.Access.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\Data.Access\obj\Debug\Data.Access.pdb

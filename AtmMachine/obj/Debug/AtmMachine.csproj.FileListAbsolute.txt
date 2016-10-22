@@ -1,0 +1,12 @@
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\bin\Debug\AtmMachine.exe.config
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\bin\Debug\AtmMachine.exe
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\bin\Debug\AtmMachine.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\obj\Debug\AtmMachine.csprojResolveAssemblyReference.cache
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\obj\Debug\AtmMachine.exe
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\obj\Debug\AtmMachine.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\bin\Debug\Business.Access.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\bin\Debug\Data.Access.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\bin\Debug\Data.Repository.dll
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\bin\Debug\Business.Access.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\bin\Debug\Data.Access.pdb
+c:\users\yanli\documents\visual studio 2015\Projects\AtmMachine\AtmMachine\bin\Debug\Data.Repository.pdb
